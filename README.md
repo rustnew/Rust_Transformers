@@ -80,7 +80,7 @@ cargo --version
 
 ```bash
 # Cloner le repository
-git clone https://github.com/ton-username/transformer-rs
+git clone https://github.com/rustnew/Rust_Transformers.git
 cd transformer-rs
 
 # Compiler en mode développement
